@@ -14,7 +14,7 @@ In `set2` and `set3`, you will find some sub-folders that further partition the 
 
 ### The instance folder structure
 
-Then, each individual instance has its own folder. It contains three files: `items.csv`, `bin_types.csv`, and `classes.csv`. Let's describe each of them.
+Then, each individual instance has its own folder. It contains three files: `items.csv`, `bin_types.csv`, and `classes.csv`. Let's describe each of them:
 
 - `items.csv`: This file contains the information about all the items in the instance.  One row corresponds to one item and holds its descriptive attributes. The first column (`volume`) is the item's volume. There is then one column per class (`class_c`, with *c* the class id), and in each column is the item's color for the corresponding class.
 The ID of an item is the number of its row in this file.  
