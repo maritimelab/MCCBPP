@@ -72,8 +72,8 @@ A file contains the results of all the instances in the set. For each instance, 
 
 ### Greedy heuristics 
 
-In `heuristics/greedy`, you will find for each set the results of all the greedy heuristics for each instance of the set. 
-For `set2`, there are 4 columns for bin types, but only type 1 is used. The other 3 columns can therefore be ignored.
+In `heuristics/greedy`, you will find for each set the results of all the greedy heuristics for each instance of the set.  
+For `set2`, there are 4 columns for bin types, but only type 1 is used. The other 3 columns can therefore be ignored. The intention was to have the same columns for all files.
 
 ### ALNS 
 
