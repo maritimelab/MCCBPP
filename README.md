@@ -1,12 +1,11 @@
-# Data and results of the MCCBPP experiments in Coutton et al. (2023)
+# Data and results of the MCCVSBPP experiments in Coutton et al. (2023)
 
-### Full reference: Coutton, B., Pacino, D., Holst, K., Guericke, S. and Kidd, M.P. (2023). Lower bounds and Heuristics for the Multi-Class Constrained Bin Packing Problem. Under revision.
+### Full reference: Coutton, B., Pacino, D., Holst, K., Guericke, S. and Kidd, M.P. (2023). Heuristic approaches for freight containerization with business rules. Under revision.
 
-This repository hosts the files backing up the data and experimental results described in our paper Lower Bounds and Heuristics for the Multi-Class Constrained Bin Packing Problem referenced above.
+This repository hosts the files backing up the data and experimental results described in our paper Heuristic approaches for freight containerization with business rules referenced above.
 The paper is now under revision. A link to it will be provided as soon as possible.
 
 If you have any questions, please feel free to reach out to **baptiste.coutton@gmail.com**
-
 
 ## Data
 
